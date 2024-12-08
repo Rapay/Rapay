@@ -1,12 +1,12 @@
+<h3 align="center">Me chamo Miguel "Rapay". Tenho 19 anos e  sou um desenvolvedor full-stack.</h3>
+
+###
+
 <h1 align="center">Olá, seja bem-vindo  🕵️‍♂️</h1>
 
 ###
 
-<h4 align="center">Me chamo Miguel "Rapay". Tenho 19 anos e  sou um desenvolvedor full-stack.</h4>
-
-###
-
-<h3 align="center">Linguagens e Ferramentas:</h3>
+<h4 align="center">Linguagens e Ferramentas:</h4>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h4 align="left">Entre em contato:</h4>
+<h3 align="left">Entre em contato:</h3>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://open.spotify.com/user/2n5josgcyqfgc3ahggs2cge3m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=2n5josgcyqfgc3ahggs2cge3m&count=4&unique=false" alt="Spotify recently played"  />
   </a>
