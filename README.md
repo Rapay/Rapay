@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Linguagens e Ferramentas:</h4>
+<h3 align="center">Linguagens e Ferramentas:</h3>
 
 ###
 
@@ -88,13 +88,13 @@
 
 ###
 
-<h4 align="left">Entre em contato:</h4>
+<h4 align="center">Entre em contato:</h4>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -102,9 +102,13 @@
 
 ###
 
-<div align="left">
+<img align="left" height="300" src="https://media1.tenor.com/m/ub_o3zzAw2gAAAAd/roblox-script.gif"  />
+
+###
+
+<div align="right">
   <a href="https://open.spotify.com/user/2n5josgcyqfgc3ahggs2cge3m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2n5josgcyqfgc3ahggs2cge3m&count=3&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2n5josgcyqfgc3ahggs2cge3m&count=4&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
