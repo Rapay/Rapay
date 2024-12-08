@@ -95,23 +95,25 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/miguel-rapay" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-rapay/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="@rapay" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
 
-<img align="left" height="300" src="https://media1.tenor.com/m/ub_o3zzAw2gAAAAd/roblox-script.gif"  />
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/2n5josgcyqfgc3ahggs2cge3m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=2n5josgcyqfgc3ahggs2cge3m&count=4&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE5MzJibTV2eTFuN2s1eTl5MXR2c2ptMzYyYjBpd3R4YWw1amp3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp"  />
 
 ###
