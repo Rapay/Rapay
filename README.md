@@ -90,11 +90,11 @@
 
 ###
 
-<h3 align="center">Entre em contato:</h3>
+<h3 align="left">Entre em contato:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/miguel-rapay" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
