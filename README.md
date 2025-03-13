@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -79,10 +79,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rapay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rapay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rapay&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -90,11 +87,11 @@
 
 ###
 
-<h3 align="left">Entre em contato:</h3>
+<h3 align="center">Entre em contato:</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/miguel-rapay/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -106,7 +103,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/2n5josgcyqfgc3ahggs2cge3m">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=2n5josgcyqfgc3ahggs2cge3m&count=4&unique=false" alt="Spotify recently played"  />
   </a>
@@ -114,6 +111,6 @@
 
 ###
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE5MzJibTV2eTFuN2s1eTl5MXR2c2ptMzYyYjBpd3R4YWw1amp3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp"  />
+<img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE5MzJibTV2eTFuN2s1eTl5MXR2c2ptMzYyYjBpd3R4YWw1amp3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp"  />
 
 ###
